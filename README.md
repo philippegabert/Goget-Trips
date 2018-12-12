@@ -8,8 +8,9 @@ It creates two files:
 
 This file contains all of your activity with Goget. (One file is generated with all of the data)
 Columns:
-| Booking/Transaction ID | Driver Name | Vehicle | Registration | Pod(parking spot) | Trip reason | Booking start | Booking end | Hours booked | Time charge | Km travelled | Km free | Km charge | Damage Cover | Location charge | Fines | Fees | Credits | Tolls | TOTAL(incl GST) | Payment | Total DUE |
---- | --- | --- | --- |--- | --- | --- | --- |--- | --- | --- | --- |--- | --- | --- | --- |--- | --- | --- | --- |--- | --- |
+
+ | Booking/Transaction ID | Driver Name | Vehicle | Registration | Pod(parking spot) | Trip reason | Booking start | Booking end | Hours booked | Time charge | Km travelled | Km free | Km charge | Damage Cover | Location charge | Fines | Fees | Credits | Tolls | TOTAL(incl GST) | Payment | Total DUE |
+ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
   - **other_fees.csv**
 
@@ -17,7 +18,7 @@ This files contains all of the other fees (ex. Monthly subscription charge). (On
 Columns:
 
 | Date | Type | Summary | Cost(incl GST) |
---- |--- | --- |--- |
+| --- | --- | --- |--- |
 
 ### Pre-requisites
 
